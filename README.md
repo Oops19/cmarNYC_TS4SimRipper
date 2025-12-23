@@ -3,6 +3,7 @@
 ## Additional Information
 * This is a fork from MTS. 
 * Original description by [CmarNYC](https://modthesims.info/member.php?u=3216596) who retired on earth and is now supporting the TS4 development in heaven.
+* Builds by andrew can be found here: [GitHub](https://github.com/CmarNYC-Tools/TS4SimRipper)
 
 ### Requirements:
 * s4pi: https://github.com/s4ptacle/Sims4Tools
