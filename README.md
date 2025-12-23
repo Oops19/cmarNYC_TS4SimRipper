@@ -11,6 +11,7 @@
 * t.b.d.
 
 ### Other forks on GitHub:
+* https://github.com/CmarNYC-Tools/TS4SimRipper
 * https://github.com/technificentConsulting/TS4-SimRipper
 * https://github.com/LynnSpyre/TS4-SimRipper
 
